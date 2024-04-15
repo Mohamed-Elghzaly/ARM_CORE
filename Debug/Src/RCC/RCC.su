@@ -1,0 +1,2 @@
+../Src/RCC/RCC.c:11:6:RCC_init	4	static
+../Src/RCC/RCC.c:54:6:RCC_PeripheralClkEn	16	static
